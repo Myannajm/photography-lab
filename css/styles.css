@@ -28,9 +28,15 @@ padding: 5px;
 .home_logo {
 	display: block;
 	margin-top: 200px;
+<<<<<<< HEAD
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
+=======
+	margin-left: 440px;
+	margin-right: auto;
+	width: 50%;
+>>>>>>> 383cca4e60aba94f4e0dd48c010afa2cb0c3bf47
 	padding: 25px;
 	padding-color: #3F000F;
 }
@@ -74,8 +80,12 @@ text-decoration: #3F000F underline;
 @media only screen and (min-width: 1024px) {
  .home_logo {
 	 margin-top: 0px;
+<<<<<<< HEAD
 	 margin-left: 700px;
 	 margin-right: 700px;
+=======
+	 margin-left: 400px;
+>>>>>>> 383cca4e60aba94f4e0dd48c010afa2cb0c3bf47
  }
        	.masonry {
     column-count: 3;
@@ -86,11 +96,17 @@ text-decoration: #3F000F underline;
 @media only screen and (max-width: 1023px) and (min-width: 768px) {
  .home_logo {
  margin-top: 40px;
+<<<<<<< HEAD
  margin-left: 250px;
  margin-right: 250px;
  } 
 
  .masonry {
+=======
+ margin-left: 350px;
+ } 
+       	.masonry {
+>>>>>>> 383cca4e60aba94f4e0dd48c010afa2cb0c3bf47
     column-count: 3;
   }
 }
@@ -98,9 +114,14 @@ text-decoration: #3F000F underline;
 /* Masonry on small screens */
 @media only screen and (max-width: 767px) and (min-width: 540px) {
   .home-logo {
+<<<<<<< HEAD
 	  margin-top: 60px;
 	  margin-left: auto;
 	margin-right: auto;
+=======
+	  margin-left: 200px;
+margin-top: 60px;
+>>>>>>> 383cca4e60aba94f4e0dd48c010afa2cb0c3bf47
   }
 	.masonry {
     column-count: 2;
