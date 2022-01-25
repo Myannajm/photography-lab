@@ -9,6 +9,14 @@
 .navbar-light .navbar-nav .nav-link {
   color: black;
 }
+body{
+        background-image: url(wildflower.jpg);
+        background-position: center center;
+        background-repeat:no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: #eee;
+}
 .container{
   margin-top: 80px;
   margin-bottom: 25px;
@@ -31,6 +39,7 @@ height: 700px;
 	text-align: center;
 	border-style: solid;
 	border-color: tan;
+	background-color: white;
 }
 @media only screen and (min-width: 244px) {
   .container img{

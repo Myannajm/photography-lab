@@ -9,14 +9,24 @@
 .navbar-light .navbar-nav .nav-link {
   color: black;
 }
+body{
+        background-image: url(wildflower.jpg);
+        background-position: center center;
+        background-repeat:no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: #eee;
+}
 .container{
 text-align: center;
 font-family: "Times New Roman", Times, serif;
 color: black;
 font-size: large;
+background-color: white;
 }
 h1,h4{
 text-align: center;
+background-color: white;
 font-family: "Times New Roman", Times, serif;
 color: tan;
 }
