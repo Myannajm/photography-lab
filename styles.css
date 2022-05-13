@@ -27,12 +27,9 @@ padding: 5px;
 }
 .home_logo {
 	display: block;
-	margin-top: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
-	padding: 25px;
-	padding-color: #3F000F;
+	margin-top: 10px;
+	width: 30%;
+	/* padding: 25px; */
 }
 
 .home_msg{
